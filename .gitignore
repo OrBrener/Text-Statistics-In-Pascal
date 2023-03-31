@@ -1,0 +1,5 @@
+textyzer
+*.ali
+*.o
+default.gpr
+A2 Ada Code

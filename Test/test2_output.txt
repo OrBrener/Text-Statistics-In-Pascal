@@ -1,0 +1,33 @@
+T e x t  S t a t i s t i c s
+----------------------------
+Number of letters =  209
+Number of words =  49
+Number of numbers =  2
+Number of sentences =  2
+Number of lines =  5
+Number of punctuation =  4
+Number of spaces =  46
+Average letters per word =  4.27
+Average words per sentence = 24.50
+
+Histogram - Word Length Distribution
+    1   *
+    2   *********
+    3   **************
+    4   ********
+    5   *****
+    6   ****
+    7   ********
+    8
+    9   *
+   10   *
+   11
+   12
+   13
+   14
+   15
+   16
+   17
+   18
+   19
+   20
