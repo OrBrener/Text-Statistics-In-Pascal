@@ -3,3 +3,4 @@ textyzer
 *.o
 default.gpr
 A2 Ada Code
+test.txt
